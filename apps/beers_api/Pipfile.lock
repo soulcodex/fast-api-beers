@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c38e75776502746af74f6f97d1b4bc7b1d2dca9efafd502438b9035c97ac0294"
+            "sha256": "c99c30839e45314e918263d111d525cb282f0d9a5c5961fb8ec4e9fcc26e79be"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -133,6 +133,7 @@
                 "sha256:9818458eb565bb54898ccb9b8b251a28785dd4a55afbc23d0eb410754fe7d0f9",
                 "sha256:a211fcce9b1254ea24f0cd6af9869b3d29aba40154e947d2a07bb499b3e310d6"
             ],
+            "index": "pypi",
             "version": "==0.23.3"
         },
         "idna": {
@@ -472,10 +473,10 @@
                 "standard"
             ],
             "hashes": [
-                "sha256:8635a388062222082f4b06225b867b74a7e4ef942124453d4d1d1a5cb3750932",
-                "sha256:e69e955cb621ae7b75f5590a814a4fcbfb14cb8f44a36dfe3c5c75ab8aee3ad5"
+                "sha256:0fac9cb342ba099e0d582966005f3fdba5b0290579fed4a6266dc702ca7bb032",
+                "sha256:e47cac98a6da10cd41e6fd036d472c6f58ede6c5dbee3dbee3ef7a100ed97742"
             ],
-            "version": "==0.21.0"
+            "version": "==0.21.1"
         },
         "uvloop": {
             "hashes": [
