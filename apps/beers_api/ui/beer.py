@@ -11,8 +11,8 @@ class Beer(BaseModel):
     id: int
     name: Text
     description: Text
-    image_url: Text
-    ph: float
+    image_url: Optional[Text]
+    ph: Optional[float]
     volume: BeerVolume
 
 
