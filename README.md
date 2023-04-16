@@ -39,7 +39,9 @@ git checkout 2-split-routes # Split routing to avoid huge routing files and sing
 git checkout 3-dependency-injection # Using FastAPI dependency injection through examples  with some basic use cases
 ```
 
-[Slides]()
+[Slides (Black & White)](https://www.canva.com/design/DAFfKlb3pgo/55gKlrcN2_aOW995r9p02Q/view?utm_content=DAFfKlb3pgo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+[Slides (Color)](https://www.canva.com/design/DAFc7oJJNxM/pDidg2FRK-8WB6Jp7Ixrtg/view?utm_content=DAFc7oJJNxM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 2. Hexagonalmente hablando - Tech talk
 3. MV ¿Que? - De MV* a hexagonal - Workshop
